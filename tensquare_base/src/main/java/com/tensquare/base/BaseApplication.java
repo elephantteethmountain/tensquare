@@ -6,7 +6,7 @@ import org.springframework.context.annotation.Bean;
 
 import util.IdWorker;
 /**
- * 启动类
+ * 启动类 test
  */
 @SpringBootApplication
 public class BaseApplication {
