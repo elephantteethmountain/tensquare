@@ -7,6 +7,7 @@ import org.springframework.context.annotation.Bean;
 import util.IdWorker;
 /**
  * 启动类
+ * lmn
  */
 @SpringBootApplication
 public class BaseApplication {
